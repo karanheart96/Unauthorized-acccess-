@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unauthorized Access</string>
+    <string name="exposed">Reading from Exposed Content App</string>
+    <string name="access">Accessing Content Provider</string>
+    <string name="protectedc">Reading from Protected Content App</string>
+    <string name="acc_con">Accessing Content Provider</string>
+</resources>
